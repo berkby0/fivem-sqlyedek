@@ -1,6 +1,6 @@
 **FiveM SQL Yedekleme Botu**
 
-# FiveM sunucunuz için çalışan, zip sıkıştırmalı Discord SQL yedekleme botu. İyi kullanımlar ve iyi forumlar!
+# FiveM sunucunuz için çalışan, zip sıkıştırmalı Discord SQL yedekleme botu. İyi kullanımlar!
 
 ### 🛠️ Kurulum
 
