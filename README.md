@@ -19,4 +19,3 @@
 * **Disk Dostu Temizleme:** `config.js` üzerinden belirlenen adet (`maxLocalBackups`) aşıldığında eski yedekleri klasörden otomatik siler.
 * **Çoklu Sağlayıcı:** XAMPP, MariaDB ve AppServ konumlarını otomatik algılar.
 * **Yetki Koruması:** Manuel yedek alma komutu yalnızca `Yönetici` yetkisine sahip yetkililere açıktır.
-* 
